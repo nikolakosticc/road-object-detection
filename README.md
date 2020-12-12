@@ -2,7 +2,9 @@
 
 This Road Object Detection repository has smaller projects like : Stop Sign Detection and Pedestrian Detection.
 
-![alt text](https://github.com/nikolakosticc/image_colorization/blob/main/Image%20Colorizer/example.png)
+#Stop Sign Detection
+
+![alt text](https://github.com/nikolakosticc/road_object_detection/blob/main/Stop_Sign_Detection/Stop_Sign_Detection_Example.png)
 
 # How to run
 
