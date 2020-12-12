@@ -1,10 +1,8 @@
 # Road Object Detection
 
-This Road Object Detection repository has smaller projects like : Stop Sign Detection and Pedestrian Detection.
+This Road_Object_Detection.py file is AI software made to detect stop signs and pedestrians. As you can see on the image, not all pedestrians are detected, the cause for that can be a lot of things (lightning, time of the day, video quaility...), but I am trying to fix it :).
 
-# Stop Sign Detection
-
-![alt text](https://github.com/nikolakosticc/road_object_detection/blob/main/Stop_Sign_Detection/Stop_Sign_Detection_Example.png)
+![alt text](https://github.com/nikolakosticc/road-object-detection/blob/main/Road%20Object%20Detection/Example.png)
 
 # How to run
 
