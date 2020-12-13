@@ -8,3 +8,4 @@ This Road_Object_Detection.py file is AI software made to detect stop signs and 
 
 1. Install numpy module : pip install numpy
 2. Install opencv2 module : pip install opencv-python
+3. Run the Road_Object_Detection.py file
